@@ -55,6 +55,7 @@ namespace Compte
         public static void Main(string[] args)
         {
 CompteBancaire compte = new CompteBancaire("Johnny", 100);
+compte.retrait(200);
 Console.WriteLine(compte.affiche());;
         }
     }
