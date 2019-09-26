@@ -1,0 +1,11 @@
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\bin\Debug\netcoreapp3.0\NombreMagique.exe
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\bin\Debug\netcoreapp3.0\NombreMagique.deps.json
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\bin\Debug\netcoreapp3.0\NombreMagique.runtimeconfig.json
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\bin\Debug\netcoreapp3.0\NombreMagique.runtimeconfig.dev.json
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\bin\Debug\netcoreapp3.0\NombreMagique.dll
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\bin\Debug\netcoreapp3.0\NombreMagique.pdb
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\obj\Debug\netcoreapp3.0\NombreMagique.csprojAssemblyReference.cache
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\obj\Debug\netcoreapp3.0\NombreMagique.AssemblyInfoInputs.cache
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\obj\Debug\netcoreapp3.0\NombreMagique.AssemblyInfo.cs
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\obj\Debug\netcoreapp3.0\NombreMagique.dll
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\NombreMagique\obj\Debug\netcoreapp3.0\NombreMagique.pdb
