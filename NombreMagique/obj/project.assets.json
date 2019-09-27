@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\NombreMagique\\NombreMagique\\NombreMagique.csproj",
+      "projectUniqueName": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\NombreMagique\\csharp\\NombreMagique\\NombreMagique.csproj",
       "projectName": "NombreMagique",
-      "projectPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\NombreMagique\\NombreMagique\\NombreMagique.csproj",
+      "projectPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\NombreMagique\\csharp\\NombreMagique\\NombreMagique.csproj",
       "packagesPath": "C:\\Users\\MELKI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\NombreMagique\\NombreMagique\\obj\\",
+      "outputPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\NombreMagique\\csharp\\NombreMagique\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
