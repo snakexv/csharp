@@ -1,0 +1,11 @@
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.0\JeuDeMath.exe
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.0\JeuDeMath.deps.json
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.0\JeuDeMath.runtimeconfig.json
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.0\JeuDeMath.runtimeconfig.dev.json
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.0\JeuDeMath.dll
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\bin\Debug\netcoreapp3.0\JeuDeMath.pdb
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.0\JeuDeMath.csprojAssemblyReference.cache
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.0\JeuDeMath.AssemblyInfoInputs.cache
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.0\JeuDeMath.AssemblyInfo.cs
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.0\JeuDeMath.dll
+C:\Users\MELKI\Desktop\ProjetCsharp\NombreMagique\csharp\jeu de math\JeuDeMath\JeuDeMath\obj\Debug\netcoreapp3.0\JeuDeMath.pdb
