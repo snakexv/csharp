@@ -1,0 +1,11 @@
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\bin\Debug\netcoreapp3.0\ListePizza.exe
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\bin\Debug\netcoreapp3.0\ListePizza.deps.json
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\bin\Debug\netcoreapp3.0\ListePizza.runtimeconfig.json
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\bin\Debug\netcoreapp3.0\ListePizza.runtimeconfig.dev.json
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\bin\Debug\netcoreapp3.0\ListePizza.dll
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\bin\Debug\netcoreapp3.0\ListePizza.pdb
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\obj\Debug\netcoreapp3.0\ListePizza.csprojAssemblyReference.cache
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\obj\Debug\netcoreapp3.0\ListePizza.AssemblyInfoInputs.cache
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\obj\Debug\netcoreapp3.0\ListePizza.AssemblyInfo.cs
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\obj\Debug\netcoreapp3.0\ListePizza.dll
+C:\Users\MELKI\Desktop\ProjetCsharp\pizza\ListePizza\ListePizza\obj\Debug\netcoreapp3.0\ListePizza.pdb
