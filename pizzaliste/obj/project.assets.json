@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\pizza\\ListePizza\\ListePizza\\ListePizza.csproj",
+      "projectUniqueName": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\csharp\\pizzaliste\\ListePizza.csproj",
       "projectName": "ListePizza",
-      "projectPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\pizza\\ListePizza\\ListePizza\\ListePizza.csproj",
+      "projectPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\csharp\\pizzaliste\\ListePizza.csproj",
       "packagesPath": "C:\\Users\\MELKI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\pizza\\ListePizza\\ListePizza\\obj\\",
+      "outputPath": "C:\\Users\\MELKI\\Desktop\\ProjetCsharp\\csharp\\pizzaliste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
